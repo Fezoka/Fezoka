@@ -5,5 +5,5 @@ Bom dia.
 
 
 
-                                                    CONTAT:
+                                                    CONTATO:
                                                  ${Fezoka}#1569
