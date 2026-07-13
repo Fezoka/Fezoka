@@ -39,8 +39,12 @@ Atualmente, atuo com desenvolvimento de soluções em modelo **SaaS** e automaç
 ## 📊 [03] GITHUB STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fezoka&show_icons=true&theme=dark&hide_border=true&title_color=00ff66&icon_color=00ff66" height="180" alt="Estatísticas do Fezoka"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fezoka&layout=compact&theme=dark&hide_border=true&title_color=00ff66" height="180" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fezoka&show_icons=true&theme=dark&hide_border=true&title_color=00ff66&icon_color=00ff66&cache_seconds=86400&v=1" height="180" alt="Estatísticas do Fezoka"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fezoka&layout=compact&theme=dark&hide_border=true&title_color=00ff66&cache_seconds=86400&v=1" height="180" alt="Linguagens mais usadas"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Fezoka/fezoka.github.io/e1f77b580a988b3619466d8e82dd976e5dca1839/src/github-contribution-grid-snake-dark.svg" alt="Github Contribution Grid Snake Dark" width="100%" />
 </div>
 
 ---
